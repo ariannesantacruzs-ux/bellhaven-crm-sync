@@ -1,0 +1,411 @@
+{
+  "UPDATE_001MVVAPY6U5TVYRC4": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:54:27",
+    "payload": [
+      {
+        "account_id": "001MVVAPY6U5TVYRC4",
+        "message": "updated",
+        "fields": [
+          "billing_street",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_0014DHACE6WQU3RMM5": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:54:42",
+    "payload": [
+      {
+        "account_id": "0014DHACE6WQU3RMM5",
+        "message": "updated",
+        "fields": [
+          "billing_street",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_0015L38R1Z5947ZZP7": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:54:59",
+    "payload": [
+      {
+        "account_id": "0015L38R1Z5947ZZP7",
+        "message": "updated",
+        "fields": [
+          "billing_street",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_001TZCSTBZFM6K5BGN": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:55:57",
+    "payload": [
+      {
+        "account_id": "001TZCSTBZFM6K5BGN",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_00191H7JR16471SZ34": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:56:13",
+    "payload": [
+      {
+        "account_id": "00191H7JR16471SZ34",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_0010KJFP601YNTZVDA": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:56:31",
+    "payload": [
+      {
+        "account_id": "0010KJFP601YNTZVDA",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_001RJ0D7Z5MAZN5HX5": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:56:53",
+    "payload": [
+      {
+        "account_id": "001RJ0D7Z5MAZN5HX5",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "DUP_001JD2MWRA74LTSN24_INTO_001UELXDAKFRKB8932": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 17:58:35",
+    "payload": [
+      {
+        "account_id": "001JD2MWRA74LTSN24",
+        "message": "updated",
+        "fields": [
+          "duplicate_of_account",
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "REPARENT_001WR41PYNWXCAE2X4": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:04:51",
+    "payload": [
+      {
+        "account_id": "001WR41PYNWXCAE2X4",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note",
+          "parent_id",
+          "parent_name"
+        ]
+      }
+    ]
+  },
+  "REPARENT_001H1JMVZWP46D5VUF": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:05:42",
+    "payload": [
+      {
+        "account_id": "001H1JMVZWP46D5VUF",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note",
+          "parent_id",
+          "parent_name"
+        ]
+      }
+    ]
+  },
+  "UPDATE_001RJU1X4NBWC1Q0G7": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:06:07",
+    "payload": [
+      {
+        "account_id": "001RJU1X4NBWC1Q0G7",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_0017MN2JYAJBDS8WQZ": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:06:15",
+    "payload": [
+      {
+        "account_id": "0017MN2JYAJBDS8WQZ",
+        "message": "updated",
+        "fields": [
+          "name",
+          "note"
+        ]
+      }
+    ]
+  },
+  "CHOW_001A34WFSUYHCRBLFT": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:09:12",
+    "payload": [
+      {
+        "account_id": "00180884EE3D2793A5",
+        "message": "created"
+      },
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "message": "updated",
+        "fields": [
+          "chow_current_account",
+          "note"
+        ]
+      }
+    ]
+  },
+  "DUP_00180884EE3D2793A5_INTO_001A34WFSUYHCRBLFT": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:09:41",
+    "payload": [
+      {
+        "account_id": "00180884EE3D2793A5",
+        "message": "updated",
+        "fields": [
+          "duplicate_of_account",
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "REPARENT_001LGFPBJY4N9MB6KL": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:10:31",
+    "payload": [
+      {
+        "account_id": "001LGFPBJY4N9MB6KL",
+        "message": "updated",
+        "fields": [
+          "note",
+          "parent_id",
+          "parent_name"
+        ]
+      }
+    ]
+  },
+  "UPDATE_00180884EE3D2793A5": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:10:57",
+    "payload": [
+      {
+        "account_id": "00180884EE3D2793A5",
+        "message": "updated",
+        "fields": [
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "DUP_001QU150PM4Z15UA71_INTO_001EGU7BMJ942ZTRE6": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:11:18",
+    "payload": [
+      {
+        "account_id": "001QU150PM4Z15UA71",
+        "message": "updated",
+        "fields": [
+          "duplicate_of_account",
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "CREATE_bellhaven-of-batavia": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:12:53",
+    "payload": [
+      {
+        "account_id": "001F396D0A20C093CD",
+        "message": "created"
+      }
+    ]
+  },
+  "CREATE_bellhaven-at-union-square": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:13:04",
+    "payload": [
+      {
+        "account_id": "0012595B1E952068EC",
+        "message": "created"
+      }
+    ]
+  },
+  "CREATE_bellhaven-of-carlisle": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:13:12",
+    "payload": [
+      {
+        "account_id": "001C8C2E38F56DDF0E",
+        "message": "created"
+      }
+    ]
+  },
+  "ORPHAN_00116ETS45BL7DTQP7": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 18:13:50",
+    "payload": [
+      {
+        "account_id": "00116ETS45BL7DTQP7",
+        "message": "updated",
+        "fields": [
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "ORPHAN_0013NUZQHQUEZ8DXEG": {
+    "decision": "REJECTED",
+    "timestamp": "2026-11-20 18:14:58",
+    "payload": null
+  },
+  "CREATE_bellhaven-of-chesterton": {
+    "decision": "REJECTED",
+    "timestamp": "2026-11-20 18:15:11",
+    "payload": null
+  },
+  "ORPHAN_001SXSF4ELF0Z2LGDM": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 20:31:57",
+    "payload": [
+      {
+        "account_id": "001SXSF4ELF0Z2LGDM",
+        "message": "updated",
+        "fields": [
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "DUP_0016PVXH4B25HWR7QE_INTO_001MVVAPY6U5TVYRC4": {
+    "decision": "REJECTED",
+    "timestamp": "2026-11-20 21:46:54",
+    "payload": null
+  },
+  "DUP_001BLYF02K97SZLZHH_INTO_001CVBBCSDM7YHN220": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:47:22",
+    "payload": [
+      {
+        "account_id": "001BLYF02K97SZLZHH",
+        "message": "updated",
+        "fields": [
+          "duplicate_of_account",
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "CHOW_001U6RW32TY0WSXZZB": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:47:58",
+    "payload": [
+      {
+        "account_id": "001F8A645C8DE7A4AD",
+        "message": "created"
+      },
+      {
+        "account_id": "001U6RW32TY0WSXZZB",
+        "message": "updated",
+        "fields": [
+          "chow_current_account",
+          "note"
+        ]
+      }
+    ]
+  },
+  "UPDATE_001NXP9X46CWEPSLSV": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:48:29",
+    "payload": [
+      {
+        "account_id": "001NXP9X46CWEPSLSV",
+        "message": "updated",
+        "fields": [
+          "billing_street",
+          "note"
+        ]
+      }
+    ]
+  },
+  "CREATE_amberly-manor": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:48:37",
+    "payload": [
+      {
+        "account_id": "001C74EC635C08CACA",
+        "message": "created"
+      }
+    ]
+  },
+  "DUP_001F8A645C8DE7A4AD_INTO_001U6RW32TY0WSXZZB": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:48:46",
+    "payload": [
+      {
+        "account_id": "001F8A645C8DE7A4AD",
+        "message": "updated",
+        "fields": [
+          "duplicate_of_account",
+          "note",
+          "status"
+        ]
+      }
+    ]
+  },
+  "UPDATE_001F8A645C8DE7A4AD": {
+    "decision": "APPROVED",
+    "timestamp": "2026-11-20 21:55:44",
+    "payload": [
+      {
+        "account_id": "001F8A645C8DE7A4AD",
+        "message": "updated",
+        "fields": [
+          "note",
+          "status"
+        ]
+      }
+    ]
+  }
+}
